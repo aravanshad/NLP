@@ -1,1 +1,1 @@
-This folder includes a summarized version of tutorials implemented in iPython.
+This folder includes a summarized version of NLP tutorials implemented in iPython.
